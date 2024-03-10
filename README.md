@@ -5,13 +5,30 @@ This Go program analyzes text by counting characters and words, and calculating 
 ## Usage
 
 1. Clone the repository:
-```git clone https://github.com/your-username/text-analysis-go.git```
+   
+```
+git clone https://github.com/your-username/text-analysis-go.git
+```
 
-2. Access directory:
+3. Access directory:
 
-```cd text-analysis-go```
+```
+cd text-analysis-go
+```
 
 3. Run text_analysis.go file:
 
-```go run text_analysis.go```
+```
+go run text_analysis.go
+```
+4. To create an executable run:
 
+```
+go build text_analysis.go
+```
+
+5. Enter the text when prompted and view the analysis results.
+
+
+
+Feel free to contribute or provide feedback!
