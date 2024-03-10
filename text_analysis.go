@@ -83,4 +83,5 @@ func main() {
 	fmt.Printf("\nConsonants: %d%%", consonantCount)
 	fmt.Printf("\nOther characters: %d%%\n", specialCount)
 	fmt.Println("----------------------------------------------------------")
+	scanner.Scan()
 }
