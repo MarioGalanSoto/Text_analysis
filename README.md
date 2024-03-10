@@ -7,7 +7,7 @@ This Go program analyzes text by counting characters and words, and calculating 
 1. Clone the repository:
    
 ```
-git clone https://github.com/your-username/text-analysis-go.git
+git clone https://github.com/MarioGalanSoto/Text_analysis.git 
 ```
 
 3. Access directory:
