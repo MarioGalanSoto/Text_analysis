@@ -13,7 +13,7 @@ git clone https://github.com/MarioGalanSoto/Text_analysis.git
 3. Access directory:
 
 ```
-cd text-analysis-go
+cd Text_analysis
 ```
 
 3. Run text_analysis.go file:
